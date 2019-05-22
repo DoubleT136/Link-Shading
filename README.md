@@ -1,0 +1,1 @@
+A tech demo that attempts to recreate the graphics style of The Legend of Zelda: The Wind Waker using a toon shader, a Depth of Field Shader, and several water shaders in Unity. Final project for CS 248, Interactive Computer Graphics, at Stanford.
